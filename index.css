@@ -122,5 +122,18 @@ margin-top: 40px;
 }
 
     
+.projet1{
+    background-color:rgb(43, 42, 42) ;
+    width: 50vw;
+    border-radius: 20px; 
+}
+
+    .text{
+        display: flex;
+        flex-direction: column;
+        color: aliceblue;
+        
+        
+    }
 
  
