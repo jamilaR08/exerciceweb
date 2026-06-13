@@ -44,3 +44,83 @@ margin-top: 40px;
     display: flex; 
     justify-content: center;
 }
+.apropos p{
+    
+    text-align: center;
+    color: #b3b3b3; 
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    max-width: 520px;
+  
+    
+}
+ .apropos{
+    display: flex;
+    justify-content: center;
+
+ }
+
+ 
+    
+ .button{
+    display: flex;
+    justify-content: center;
+    gap:20px;
+    margin-bottom: 20px;
+
+ }
+ .btn1 button{
+    border-radius: 50px;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+
+
+ }
+
+ .btn2 button {
+    border-color: beige;
+    border-radius: 50px;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: black;
+    color: azure;
+
+    
+ }
+
+ .exp {
+    display: flex;
+    justify-content: center;
+    color: #b3b3b3;
+ }
+ 
+ .logos{
+    padding: 10px;
+    display: flex;
+    gap: 40px;
+    
+    justify-content: center;
+    
+ }
+
+.logos img{
+    width: 40px;
+}
+
+.projettitre p{
+    color: rgb(246, 104, 52);
+    font: 800;
+    font-style: bold;
+    font-family: fantasy;
+    text-align: center;
+    
+    
+
+}
+
+    
+
+ 
